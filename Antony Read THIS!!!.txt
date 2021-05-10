@@ -1,0 +1,8 @@
+Open database file and copy 'grading_db'
+
+Create New DB
+Then import 'grading_db.sql'
+
+Run the system
+
+login: username: admin password: admin
